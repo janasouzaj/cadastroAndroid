@@ -83,4 +83,6 @@ public class MainActivity extends AppCompatActivity {
         Intent intent = new Intent(context, Cadastro.class);
         startActivity(intent);
     }
+
+    //Alteração git 08:21 13/02/2017
 }
