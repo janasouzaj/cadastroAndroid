@@ -84,5 +84,5 @@ public class MainActivity extends AppCompatActivity {
         startActivity(intent);
     }
 
-    //Alteração git 08:21 13/02/2017
+    //Alteração git 08:21 13/02/2017 jjhjdtj
 }
