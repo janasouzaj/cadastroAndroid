@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Teste</string>
+    <string name="lbl_name">Name</string>
+    <string name="lbl_email">E-mail</string>
+    <string name="lbl_password">Password</string>
+    <string name="lbl_confirm">Confirm password</string>
+    <string name="lbl_register">Register</string>
+    <string name="lbl_login">Login</string>
+    <string name="lbl_forgetPassword">Do you forget your password?</string>
+    <string name="title_activity_home">Home</string>
+</resources>
